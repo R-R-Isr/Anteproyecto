@@ -1,6 +1,6 @@
 # Anteproyecto ASIR
 
-##Titulo del proyecto:
+## Titulo del proyecto:
 
 Consola de videojuegos portatil con Raspberry Pi
 
